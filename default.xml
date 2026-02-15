@@ -6,15 +6,15 @@
     review="https://android-review.googlesource.com/"
   />
   <remote
-    name="exynos1480"
-    fetch="https://github.com/exynos1480"
+    name="cynicalfruitbat"
+    fetch="https://github.com/cynicalfruitbat"
     revision="android14-6.1"
   />
   <default revision="main-kernel-build-2023" remote="aosp" sync-j="4" />
   <project
     path="kernel_platform"
     name="android_kernel_samsung_a55x-platform"
-    remote="exynos1480"
+    remote="cynicalfruitbat"
   />
   <project
     path="kernel_platform/prebuilts/clang/host/linux-x86"
