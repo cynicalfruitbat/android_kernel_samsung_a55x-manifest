@@ -8,7 +8,7 @@
   <remote
     name="cynicalfruitbat"
     fetch="https://github.com/cynicalfruitbat"
-    revision="android14-6.1"
+    revision="susfs"
   />
   <default revision="main-kernel-build-2023" remote="aosp" sync-j="4" />
   <project
